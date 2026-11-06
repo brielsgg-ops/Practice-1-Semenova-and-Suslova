@@ -1,0 +1,11 @@
+{
+    "well_id": "W-158",
+    "depth_m": 2400,
+    "q_liq": 143.0,
+    "w_pct": 58,
+    "is_active": true,
+    "pump": {
+        "model": "ЭЦН5-80-1800",
+        "power_kw": 130
+    }
+}
